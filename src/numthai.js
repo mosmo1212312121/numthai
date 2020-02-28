@@ -1,5 +1,4 @@
-//
-a = (value) => {
+convertNumberToThai = (value) => {
     let text=""
     for (var i = 0; i < value.length; i++) {
         switch (value[i]) {
@@ -39,8 +38,6 @@ a = (value) => {
     }
     return text
 }
-
-// console.log(a("1๙-01   -2020"))
 module.exports = {
-    a
+    convertNumberToThai
 }

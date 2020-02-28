@@ -1,0 +1,24 @@
+{
+    "name": "numthai", 
+    "version": "0.0.1", 
+    "description": "Hello publish a node package to npmjs.com", 
+    "main": "src/numthai.js", 
+    "scripts": { 
+    },
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:wannit321/numthai.git"
+    },
+    "keywords": [
+      "npm",
+      "numthai"
+    ],
+    "author": "BeforeSecond",
+    "license": "Wannit", 
+    "bugs": { 
+      "url": "https://github.com/wannit321/numthai/issues"
+    },
+    "homepage": "https://https://github.com/wannit321/numthai/blob/master/readme.md", 
+    "devDependencies": { 
+    }
+  } 
