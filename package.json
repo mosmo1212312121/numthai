@@ -1,6 +1,6 @@
 {
     "name": "numthai", 
-    "version": "0.0.1", 
+    "version": "0.0.2", 
     "description": "Hello publish a node package to npmjs.com", 
     "main": "src/numthai.js", 
     "scripts": { 
@@ -13,7 +13,7 @@
       "npm",
       "numthai"
     ],
-    "author": "BeforeSecond",
+    "author": "Wannit",
     "license": "Wannit", 
     "bugs": { 
       "url": "https://github.com/wannit321/numthai/issues"
