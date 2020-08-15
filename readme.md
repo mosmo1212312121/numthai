@@ -12,7 +12,7 @@
 ### Installation 
 
 ```sh
-npm install --save npmthai
+npm install --save numthai
 ```
 ### Example
 ```javascript
